@@ -1,4 +1,4 @@
-<h2>📚 STACKS</h2>
+<h1>📚 STACKS</h1>
 
 <h3>🧠 Languages</h3>
 <p>
@@ -31,7 +31,7 @@
 
 <br>
 
-<h2>🏆 Algorithm</h2>
+<h1>🏆 Algorithm</h1>
 <p>
 <a href="https://solved.ac/arirang030/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arirang030">
