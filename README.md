@@ -1,4 +1,4 @@
-<h1>STACKS</h1>
+<h1>Stacks</h1>
 
 <h3>Languages</h3>
 <div style="white-space: nowrap;">
