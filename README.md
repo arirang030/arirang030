@@ -32,8 +32,13 @@
 <br>
 
 <h1>Algorithm</h1>
-<p>
-<a href="https://solved.ac/arirang030/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arirang030">
-</a>
-</p>
+<div style="white-space: nowrap;">
+  <p>
+  <a href="https://solved.ac/arirang030/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arirang030">
+  </a>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/arirang030/programmers-badge/master/static/result.svg?cache_buster=1"/>
+  </p>
+</div>
